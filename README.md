@@ -16,7 +16,7 @@
 쉽게 설명하면 부품을 분류하는 로봇을 만드는 프로젝트 입니다. 다만 그 부품들이 레고의 빔이라는 부품이라는 것이 다른것이죠. 저희가 직접 부품을 분류하는 로봇을 만들기에는 너무나도 거창하고 비용 그리고 실력이 없기 때문에 저희는 레고의 부품 중인 <a href=""> "빔" </a>을  부품을 대처 하여 활용할것이다. </br>
 
 ## Software Guide
-<b> <u> SoftWare Guide </u> 부분은 <a href="https://docs.microsoft.com/ko-kr/azure/cognitive-services/custom-vision-service/python-tutorial"> Microsoft 공식 문서 </a> 를 참고하여 작성이 되었습니다. 이 글의 오류가 있을수 있으니 원본 문서를 먼저 읽어 보시는것을 추천드립니다 <b> </br>
+<b> <u> SoftWare Guide </u> 부분은 <a href="https://docs.microsoft.com/ko-kr/azure/cognitive-services/custom-vision-service/python-tutorial"> Microsoft 공식 문서 </a> 를 참고하여 작성이 되었습니다. 이 글의 오류가 있을수 있으니 원본 문서를 먼저 읽어 보시는것을 추천드립니다 </b> </br>
 일단 첫번째로 공부에 필요한 사진을 찍어 줘야한다. 공부할 사진을 Google와 Bing에서 20분 동안 뒤지닌까 80장 정도 나온다. </br>
 그래서 내가 직접 데이터를 만들기로 했다. ~~사진을 데이터라고 하닌까 멋져보임ㅋ~~~ </br>
 사진을 찍기 위해서 웹캠이 필요한데, 나는 지금 웹캠이 없다. 그래서 노트북에 있는 카메라를 이용하기로 했다. </br>
