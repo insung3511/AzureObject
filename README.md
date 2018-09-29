@@ -27,7 +27,7 @@
 그 코드는 사실 StackOverFlow에서 누군가 올려놓은 코드 인데, 출처를 못 남겨 놓았다... 나중에 방문기록 찾으면 올릴게요... </br>
 데이터를 만드는데 화질이 생각외로 높다 보니 720HD로 되어 있어서 꽤 용량이 크다. 1000장에 2.41GB가 나왔다. </br>
 </br>
-사진들을 모두 찍고 <a href="customvision.ai"> Custom Vision Portal </a>에 들어가서 사진 업로드와 공부를 시켜줘야 한다. </br>
+사진들을 모두 찍고 <a href="https://customvision.ai"> Custom Vision Portal </a>에 들어가서 사진 업로드와 공부를 시켜줘야 한다. </br>
 사진들을 모두 업로드를 하고 공부를 시킨후에서 코드로 작성을 해서 인공지능을 테스트한 값에대한 결과물을 텍스트로 받고 싶었는데, 코드를 아무리 찾아봐도, 결과만 받을수 있는 코드가 없다. ~~구글쓰세요...구글이 짱이에요~~ </br>
 결국 <a href="https://docs.microsoft.com/ko-kr/azure/cognitive-services/custom-vision-service/python-tutorial"> Python 자습서 </a>를 보고 코드로 프로젝트를 생성하고, 파일을 업로드하고 결과를 얻는 방식으로 하기로 했다. </br>
 코드가 좀 길고, 디렉토리가 이러저러 많아서 그런지 좀 많이 헷갈린다. </br>
