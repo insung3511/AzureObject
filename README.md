@@ -33,6 +33,10 @@ Bottom 디렉토리와, Top 디렉토리가 비슷비슷하고 컴퓨터마다 �
 A2ZObject 공부중....
 </pre>
 
+##Project E-N-D
+사실 프로젝트가 끝이 난건 10월 달 쯤이다. 하지만 잦은 Github 방문으로 관리를 못했다. 프로젝트가 끝이 난 이유는 Custom Vision의 API 호출에 대한 오류 때문이다. </br>
+아직 정확한 사용법과 규정이 안나와 있어서 API를 어떻게 써야 하는지 몰라서 어쩔수 없이 프로젝트를 끝을 냈다. 혹시 나중에라도 도움을 주실수 있는분은 아래 이메일 주소를 통해서 연락을 해주시면 감사하겠습니다. </br>
+
 ## Contact me
 ----------------------------------------
 If you have problem about this code, then contect me. </br>
